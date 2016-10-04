@@ -1,0 +1,115 @@
+body{margin: 0px;
+     overflow: scroll;}
+
+.front{background-color: #3b5998;
+       height: 75pt;
+       overflow: hidden; }
+
+table{position: relative;
+      left: 800px;
+      bottom: 87px; }        
+      
+.logo{color: white;
+      font-family: thoma,sans-serif;
+      font-size: 45px;
+      position: relative;
+      bottom: : 10px;
+      left: 100pt;
+      font-stretch: ultra-condensed;
+      overflow: hidden;}      
+      
+.heading{color: white;
+         font-family: sans-serif;
+         font-size: 13px; }      
+         
+.blue{font-family: sans-serif;
+      color: navy;
+      font-size: 13px;}
+      
+.submit {
+	font-size: 13px;
+	font-weight: bold;
+	color: white;
+	background-color: #6d84b4;
+	border:1px solid #3b5998;
+	border-radius: 3px;
+	padding: 2px 5px 2px 5px;
+}
+
+
+.right{background: linear-gradient(#ffffff, #d8dfea);
+       height: 580pt; }
+       
+.fbook{font-family: sans-serif;
+       position: relative;
+       left: 120px;
+       top: -550px;
+       font-size: 20px;}   
+       
+img{position: relative;
+    left: 120px;
+    top: -550px;
+    opacity: 1.
+    ;
+    padding: 0px;
+    width: 400px;
+    margin: 0px;
+      }
+     
+.form{text-align: right;
+      position: relative;
+      right: 105px;
+      margin: 0px; }  
+      
+.create{font-size: 40px;
+        font-family: sans-serif;
+        position: relative;
+        right: 100px;   }  
+        
+.its{font-size: 20px;
+      font-family: sans-serif;
+     position: relative;
+     right: 190px;  }      
+     
+     
+.input{border-radius: 5px;
+       height: 30px;
+       border:1px solid #BBBBBB;
+       padding: 5px;}    
+       
+.h3   {    font-family: sans-serif;
+           font-size: 20px;
+           position: relative;
+           right:  360px; } 
+           
+.inputextra{border-radius: 5px;
+       height: 30px;
+       border:1px solid #BBBBBB;
+       padding: 5px;
+       position: relative;
+       right:294px;  }                           
+          
+.radio{ font-family: sans-serif;
+        font-size: 15px;
+        position: relative;
+        right: 300px;
+         } 
+         
+         
+button {
+	font-size: 18px;
+	font-family: Tahoma;
+	font-weight: bold;
+	padding: 10px 25px 10px 25px;
+	color: #ffffff;
+	/*border: 1px solid black;*/
+	border-radius: 5px;
+	background: linear-gradient(#64A852, #598C45);
+    position: relative;
+    right: 250px;    }                  
+    
+    
+.table{ border-radius: 5px;
+       height: 15px;
+       border:1px solid #BBBBBB;
+       padding: 5px;}   
